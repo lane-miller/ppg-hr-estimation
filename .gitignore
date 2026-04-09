@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data — never commit datasets
+data/
+
+# macOS
+.DS_Store
+
+# Editor
+.cursor/
