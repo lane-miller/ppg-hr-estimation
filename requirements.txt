@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+jupyterlab
+ipykernel
+ipympl
+torch
+torchvision
+scikit-learn
+pandas
+wfdb
