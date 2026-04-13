@@ -9,3 +9,5 @@ torchvision
 scikit-learn
 pandas
 wfdb
+EMD-signal
+neurokit2
