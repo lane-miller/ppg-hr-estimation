@@ -1,5 +1,7 @@
 # ppg-hr-estimation
 
+![Python](https://img.shields.io/badge/python-3.10-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+
 Heart rate estimation from wrist-worn PPG and 3-axis accelerometer data (PPG-DaLiA dataset), comparing a classical DSP baseline against a deep learning (CNN+BiLSTM) approach.
 
 **Result:** 5.27 ± 1.93 BPM MAE (leave-one-subject-out CV, 15 subjects) with the deep learning model, vs. 19.24 BPM MAE for the classical spectral-peak baseline.
